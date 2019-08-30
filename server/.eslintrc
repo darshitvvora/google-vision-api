@@ -1,0 +1,15 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+  "extends": [
+    "airbnb/base"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "describe": true,
+    "it": true
+  }
+}

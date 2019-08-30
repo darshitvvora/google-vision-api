@@ -1,0 +1,15 @@
+{
+  "name": "angular-quezx-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "npm run install-server",
+    "install-server": "cd server && npm i",
+    "start-server": "cd server && npm run start",
+    "lint-server": "cd server && npm run lint"
+  },
+  "author": "",
+  "license": "ISC"
+}
